@@ -84,4 +84,4 @@ MacBook<h2 align="left">Hi 👋! Your at B Jathin Sanjay's Git Profile.<br>Basic
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jathinsanjay/jathinsanjay/output/snake.svg" alt="Snake animation" />
+

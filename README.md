@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-MacBook<h2 align="left">Hi 👋! Your at B Jathin Sanjay's Git Profile.<br>Basically a Full stack web developer and a Machine Learning Enthusiast</h2>
+MacBook<h2 align="left">Hi 👋! Your at Manas Singhal Git Profile.<br>Basically a Full stack web developer and a Machine Learning Enthusiast</h2>
 
 ###
 
@@ -66,16 +66,16 @@ MacBook<h2 align="left">Hi 👋! Your at B Jathin Sanjay's Git Profile.<br>Basic
 <br clear="both">
 
 <div align="left">
-  <a href="https://www.instagram.com/jathinsanjay/" target="_blank">
+  <a href="https://www.instagram.com/___manas_singhal/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="bhaskarajathinsanjay@gmail.com" target="_blank">
+  <a href="manassinghal764@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/b-jathin-sanjay-1b9259227/" target="_blank">
+  <a href="https://www.linkedin.com/in/manas-singhal-963b83251/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/JathinSanjay" target="_blank">
+  <a href="https://x.com/ManasSinghal555" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>

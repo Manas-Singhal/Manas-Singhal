@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! Your at Manas Singhal Git Profile.<br>Basically a Full stack web developer and a Machine Learning Enthusiast</h2>
+<h2 align="left">Hi 👋! You're at Manas Singhal Git Profile.<br>Basically a Full stack web developer and a Machine Learning Enthusiast</h2>
 
 ###
 
